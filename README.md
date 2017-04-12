@@ -7,7 +7,7 @@ Please note, this is not a MIDI-friendly device. It won't do anything unless you
 
 ## Installation
 - [Reaktor Player](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6-player/) (free option) or [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) is required to open the Ensemble. Works with Reaktor 5 or newer.
-- [Lemur for iOS](https://itunes.apple.com/us/app/lemur/id481290621?mt=8) or [Android](https://play.google.com/store/apps/details?id=net.liine.lemurapp&hl=en) is required to run the original OSC interface.
+- Lemur for [iOS](https://itunes.apple.com/us/app/lemur/id481290621?mt=8) or [Android](https://play.google.com/store/apps/details?id=net.liine.lemurapp&hl=en) is required to run the original OSC interface.
 - Lemur Editor for [OS X](https://liine.net/assets/files/lemur/Lemur-Installer-5.3.2-OSX.dmg) or [Windows](https://liine.net/assets/files/lemur/Lemur-Installer-5.3.2WIN.exe) to upload the layout to your mobile device.
 
 ## Description
