@@ -6,8 +6,9 @@ This software is abandonware. It is provided as-is, with some machine-specific p
 Please note, this is not a MIDI-friendly device. It won't do anything unless you've got Lemur or a similar OSC interface going.
 
 ## Installation
-- [Reaktor Player](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6-player/) (free option) or [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) is required to open the Ensemble.
-- [Lemur for iOS](https://itunes.apple.com/us/app/lemur/id481290621?mt=8) or [Android](https://play.google.com/store/apps/details?id=net.liine.lemurapp&hl=en) is required to run the original OSC interface. You will also need the Lemur Editor for [OS X](https://liine.net/assets/files/lemur/Lemur-Installer-5.3.2-OSX.dmg) or [Windows](https://liine.net/assets/files/lemur/Lemur-Installer-5.3.2WIN.exe) to upload the layout to your mobile device.
+- [Reaktor Player](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6-player/) (free option) or [Reaktor](https://www.native-instruments.com/en/products/komplete/synths/reaktor-6/) is required to open the Ensemble. Works with Reaktor 5 or newer.
+- [Lemur for iOS](https://itunes.apple.com/us/app/lemur/id481290621?mt=8) or [Android](https://play.google.com/store/apps/details?id=net.liine.lemurapp&hl=en) is required to run the original OSC interface.
+- Lemur Editor for [OS X](https://liine.net/assets/files/lemur/Lemur-Installer-5.3.2-OSX.dmg) or [Windows](https://liine.net/assets/files/lemur/Lemur-Installer-5.3.2WIN.exe) to upload the layout to your mobile device.
 
 ## Description
 Touchpoint is my MFA thesis in the Music Technology program at CalArts in 2014. It is an exploration of thinking about serialized multi-effects processing as a form of sound synthesis unto itself. Consider it a reaction to plugins like [The Finger](https://www.native-instruments.com/en/products/komplete/effects/the-finger/), [Turnado](http://sugar-bytes.de/content/products/Turnado/index.php?lang=), [Stutter Edit](https://www.izotope.com/en/products/create-and-design/stutter-edit.html), [Gross Beat](http://www.image-line.com/plugins/Effects/Gross+Beat/), etc.
