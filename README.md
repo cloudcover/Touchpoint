@@ -17,3 +17,5 @@ This instrument can be used with any audio input. To that end, the ensemble also
 There are several places where I discuss the operational principles of Touchpoint at length, including [this 2014 ICMC/SMC paper](http://speech.di.uoa.gr/ICMC-SMC-2014/images/VOL_2/1469.pdf). For the full paper, please see [my MFA thesis](http://mtiid.calartsmusictech.com/wp-content/uploads/2016/09/nsuda_mfa_2014.pdf).
 
 This instrument was partially developed in-house in the Research department at NI headquarters in Berlin during the summer of 2013. Huge thanks go to Max Zagler and Andre Estermann, whose input and assistance massively shaped the design of this device.
+
+Check out the [Reaktor User Library](https://www.native-instruments.com/en/reaktor-community/reaktor-user-library/entry/show/8642/) entry for some sound examples.
