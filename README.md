@@ -1,7 +1,7 @@
 # Touchpoint
 
 ## Disclaimer
-This software is abandonware. It is provided as-is, with some machine-specific paths and deprecated patching techniques preserved. It may recieve an overhaul some day (perhaps an update with proper serialization in Reaktor 6!), but the original Reaktor Ensemble and [Lemur](https://liine.net/en/products/lemur/) layout have been provided in their alpha state.
+This software is abandonware. It is provided as-is, with some machine-specific paths and deprecated patching techniques preserved. It may recieve an overhaul some day (perhaps an update with proper serialization in Reaktor 6!), but the original Reaktor Ensemble and [Lemur](https://liine.net/en/products/lemur/) layout have been provided in their alpha state. Submitting issues would certainly be a good way to thaw the project!
 
 Please note, this is not a MIDI-friendly device. It won't do anything unless you've got Lemur or a similar OSC interface going.
 
